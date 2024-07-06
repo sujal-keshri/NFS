@@ -1,4 +1,4 @@
-# final-project-52
+# Network File System (NFS)
 
 1. Make sure you compile the storage server code as "gcc storageserver.c server_functionalities.c" as it requires some functions that are written in server_funcitionalities.c
 
